@@ -40,13 +40,3 @@ The **AI Poem Generator** is a web app that creates personalized poems based on 
 1. Start both servers.
 2. Open `http://localhost:3000`.
 3. Select mood, theme, and length, then click **Generate Poem**.
-
-## Future Enhancements
-
-- Add more moods and themes.
-- Save and share generated poems.
-- Enhance with voice input.
-
-## License
-
-This project is licensed under the MIT License.
